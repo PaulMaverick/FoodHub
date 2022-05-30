@@ -1,6 +1,6 @@
-.bgcookbook
+.bgkitchen
     {
-        background-image: url(./images/cbtop.jpg);
+        background-image: url(./images/kitchentop.jpg);
         height: 45vh;
     }
 
@@ -10,6 +10,8 @@
         
         margin-top: 25px;
         background-color: rgb(255, 255, 255);
+        
+       
         
     }
 
