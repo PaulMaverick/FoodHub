@@ -1,0 +1,66 @@
+#introCarousel,
+      .carousel-inner,
+      .carousel-item,
+      .carousel-item.active {
+        height: 100vh;
+      }
+
+      .carousel-item:nth-child(1) {
+        background-image: url(/assests/images/bg1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+      }
+
+      .carousel-item:nth-child(2) {
+        background-image: url(/assests/images/bg2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+      }
+
+      .carousel-item:nth-child(3) {
+        background-image: url(/assests/images/bg3.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+      }
+
+      /* Height for devices larger than 576px */
+      @media (min-width: 992px) {
+        #introCarousel {
+          margin-top: -58.59px;
+        }
+      }
+
+      .navbar .nav-link {
+        color: #fff !important;
+      }
+
+.foodhub
+    {
+        font-size: 120px;
+    }
+
+.hrline
+    {
+        border: 3px solid #fff;
+    }
+
+.cookbook
+    {
+        font-size: 72px;
+    }
+.header1    
+         {
+                background-color: rgb(0, 0, 0);
+                padding: 20px;
+         }
+
+footer
+         {
+            background-color: rgb(0, 0, 0);
+            padding: 10px;
+         }
+        
+
