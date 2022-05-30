@@ -1,0 +1,31 @@
+body
+    {
+        
+        background-image: url(../assests/images/bghome.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 420vh;
+        
+    }
+
+.newsimgsize
+    {
+        width: 100%;
+        height: 100%;
+    }
+
+.imagebody
+    {
+        width: 100%;
+        height: 100%;
+    }
+
+
+.mainshadow
+    {
+        box-shadow:  0 0 10px rgb(0, 0, 0);
+        margin-top: 50px;
+    }
+
+
