@@ -1,0 +1,60 @@
+.bgkorea
+    {
+        background-image: url(../assests/images/koreatop.jpg);
+        height: 45vh;
+
+    }
+
+    .mainbg-white
+    {   
+        
+        margin-top: 25px;
+        background-color: rgb(255, 255, 255);
+        
+    }
+
+.mainshadow
+    {
+        box-shadow:  0 0 10px rgb(0, 0, 0);
+        margin-top: 50px;
+    }
+
+.image1
+    {
+        height: 90%;
+        width: 100%;
+        border: 2px solid black;
+        box-shadow:  0 0 5px rgb(0, 0, 0);
+    }
+
+
+.textbox1 h1
+    {
+        
+        color: black;
+        font-size: 52px;
+        margin-right: 60px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+.textbox1 p
+    {
+        font-size: 20px;
+        color: black;
+        text-align: justify;
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+
+.texth1
+    {
+        color: black;
+        font-size: 52px;
+    }
+
+.hr1
+    {
+        color: black;
+        border: 3px solid black;
+    }
