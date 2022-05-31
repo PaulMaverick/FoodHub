@@ -1,11 +1,11 @@
-.bgcookbook
+.bgjapan
     {
-        background-image: url(../assests/images/cbtop.jpg);
+        background-image: url(../assests/images/japantop.jpg);
         height: 45vh;
+
     }
 
-
-.mainbg-white
+    .mainbg-white
     {   
         
         margin-top: 25px;
