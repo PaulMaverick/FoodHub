@@ -27,5 +27,5 @@ FoodHub has 5 main pages.
   -> Kitchen Page
           - Since its a social media website, It's influencers and stars would be well known chefs, food bloggers, enthusiats, or influencers. They can teach and post their
             knowledge on cooking in the kitchen page. 
-          - Business idea: Allowing Chefs to make their own masterclass, something like Udemy
+          - Business idea: Allowing Chefs to make their own masterclass, something like Udemy or Coursera
             
